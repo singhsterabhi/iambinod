@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/singhsterabhi/iambinod#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "commander": "^6.0.0"
+  },
+  "bin": {
+    "binod": "./binod.js"
   }
 }
