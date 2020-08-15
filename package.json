@@ -1,0 +1,26 @@
+{
+  "name": "iambinod",
+  "version": "0.0.1",
+  "description": "",
+  "main": "binod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhsterabhi/iambinod.git"
+  },
+  "keywords": [
+    "binod",
+    "binodjs"
+  ],
+  "author": "singhsterabhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singhsterabhi/iambinod/issues"
+  },
+  "homepage": "https://github.com/singhsterabhi/iambinod#readme",
+  "dependencies": {
+    "commander": "^6.0.0"
+  }
+}
