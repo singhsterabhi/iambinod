@@ -5,6 +5,7 @@ A fun node cli inspired from the meme trend #binod.
 ![](iambinod.gif)
 
 It adds "BINOD" comment by default to every file in a directory. Furthermore you can also specify some other comment to be added.
+Only JavaScript, Typescript, CSS, SCSS and HTML files are suppoted right now.
 
 Installation:
 ```javascript
